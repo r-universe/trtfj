@@ -5,6 +5,9 @@
 [submodule "IJSE"]
 	path = IJSE
 	url = https://github.com/cran/IJSE
+[submodule "lvmPlot"]
+	path = lvmPlot
+	url = https://github.com/cran/lvmPlot
 [submodule "neuralnetwork"]
 	path = neuralnetwork
 	url = https://github.com/cran/neuralnetwork
